@@ -1,2 +1,2 @@
-# netacademia-bt4
-A Netacademia Bootstrap 4 tanfolyama
+# netacademia-jq
+jQuery tanfolyam a Netacademia gondozásában
